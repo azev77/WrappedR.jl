@@ -1,5 +1,5 @@
-using Documenter, WrapR
+using Documenter, WrappedR
 
-makedocs(modules = [WrapR], sitename = "WrapR.jl")
+makedocs(modules = [WrappedR], sitename = "WrappedR.jl")
 
-deploydocs(repo = "github.com/azev77/WrapR.jl.git")
+deploydocs(repo = "github.com/azev77/WrappedR.jl.git")
