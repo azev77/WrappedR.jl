@@ -1,4 +1,4 @@
-# WrapR.jl
+# WrappedR.jl
 Wrap some of my favorite R packages in Julia
 
 Pkg format based on: https://github.com/JuliaLang/Example.jl
