@@ -1,4 +1,4 @@
-using Test, WrapR
+using Test, WrappedR
 
 X = randn(100,5)
 y = 7.0 .+ X[:,1] .+ 2.0 .* X[:,2] .* X[:,3] + 3*randn(100)
