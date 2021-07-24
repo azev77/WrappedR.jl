@@ -1,4 +1,4 @@
-module WrapR
+module WrappedR
 
 using RCall
 
