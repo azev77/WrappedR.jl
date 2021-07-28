@@ -6,7 +6,9 @@ Wrap some of my favorite R packages in Julia
 
 GitHub Actions : [![Build Status](https://github.com/azev77/WrappedR.jl/workflows/CI/badge.svg)](https://github.com/azev77/WrappedR.jl/actions?query=workflow%3ACI+branch%3Amaster)
 
-Pkg format based on: https://github.com/JuliaLang/Example.jl
+AppVeyor: [![Build Status](https://ci.appveyor.com/api/projects/status/github/azev77/Example.jl?branch=master&svg=true)](https://ci.appveyor.com/project/azev77/WrappedR-jl/branch/master)
+
+Pkg format based on: https://github.com/azev77/WrappedR.jl
 
 TODOs: 
 1. To make uuid: `using UUIDs; uuid4()`
