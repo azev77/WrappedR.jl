@@ -11,7 +11,7 @@ AppVeyor: [![Build Status](https://ci.appveyor.com/api/projects/status/github/az
 [![Coverage Status](https://coveralls.io/repos/azev77/WrappedR.jl/badge.svg?branch=master)](https://coveralls.io/r/azev77/WrappedR.jl?branch=master)
 [![codecov.io](http://codecov.io/github/azev77/WrappedR.jl/coverage.svg?branch=master)](http://codecov.io/github/azev77/WrappedR.jl?branch=master)
 
-Pkg format based on: https://github.com/azev77/WrappedR.jl
+Pkg format based on: https://github.com/JuliaLang/Example.jl
 
 TODOs: 
 1. To make uuid: `using UUIDs; uuid4()`
