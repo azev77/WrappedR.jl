@@ -6,7 +6,7 @@ Wrap some of my favorite R packages in Julia
 
 GitHub Actions : [![Build Status](https://github.com/azev77/WrappedR.jl/workflows/CI/badge.svg)](https://github.com/azev77/WrappedR.jl/actions?query=workflow%3ACI+branch%3Amaster)
 
-AppVeyor: [![Build Status](https://ci.appveyor.com/api/projects/status/github/azev77/Example.jl?branch=master&svg=true)](https://ci.appveyor.com/project/azev77/WrappedR-jl/branch/master)
+AppVeyor: [![Build Status](https://ci.appveyor.com/api/projects/status/github/azev77/WrappedR.jl?branch=master&svg=true)](https://ci.appveyor.com/project/azev77/WrappedR-jl/branch/master)
 
 [![Coverage Status](https://coveralls.io/repos/azev77/WrappedR.jl/badge.svg?branch=master)](https://coveralls.io/r/azev77/WrappedR.jl?branch=master)
 [![codecov.io](http://codecov.io/github/azev77/WrappedR.jl/coverage.svg?branch=master)](http://codecov.io/github/azev77/WrappedR.jl?branch=master)
